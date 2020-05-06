@@ -1,0 +1,242 @@
+/* @import "style.css"; */
+
+@media only screen and (max-width: 600px) {
+    .links,
+    .message,
+    .btns {
+        margin: 2%;
+    }
+    .links {
+        width: 100%;
+    }
+    .message {
+        width: 100%;
+        line-height: 1.7;
+    }
+    .btns {
+        width: 100%;
+        margin-right: 0%;
+    }
+    #intro-section {
+        width: 98%;
+        margin: 0px 2%;
+    }
+    .stats {
+        height: 1200px;
+    }
+    .stats-content {
+        width: 97%;
+        margin: 0px 3%;
+    }
+    .counts {
+        width: 100%;
+        margin-bottom: 30%;
+    }
+    #aim {
+        width: 100%;
+    }
+    .services {
+        width: 96%;
+        margin: 2%;
+    }
+    .projects,
+    .mission,
+    .events,
+    .project-list {
+        width: 98%;
+    }
+    #literacy,
+    #hepatitis {
+        margin-right: 0%;
+    }
+    #tharparkar,
+    #housing {
+        margin-left: 0%;
+    }
+    .gallery {
+        width: 100%;
+    }
+    .image-list {
+        width: 50%;
+    }
+    .contact-content {
+        width: 100%;
+    }
+    #address,
+    #usefull-links,
+    #social-links {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .links,
+    .message,
+    .btns {
+        margin: 2%;
+    }
+    .links {
+        width: 100%;
+    }
+    .message {
+        width: 100%;
+        line-height: 1.7;
+    }
+    .btns {
+        width: 100%;
+        margin-right: 0%;
+    }
+    #intro-section {
+        width: 98%;
+        margin: 0px 2%;
+    }
+    .stats-content {
+        width: 97%;
+        margin: 0px 3%;
+    }
+    .stats {
+        height: 550px;
+    }
+    .stats-content {
+        width: 97%;
+        margin: 0px 3%;
+    }
+    .counts {
+        width: 48%;
+        margin-bottom: 10%;
+    }
+    #aim {
+        width: 100%;
+    }
+    .services {
+        width: 96%;
+        margin: 2%;
+    }
+    .projects,
+    .mission,
+    .events {
+        width: 98%;
+    }
+    .project-list {
+        width: 100%;
+    }
+    #literacy,
+    #hepatitis {
+        margin-right: 0%;
+    }
+    #tharparkar,
+    #housing {
+        margin-left: 0%;
+    }
+    .gallery {
+        width: 100%;
+    }
+    .image-list {
+        width: 50%;
+    }
+    .contact-content {
+        width: 100%;
+    }
+    #address,
+    #usefull-links,
+    #social-links {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .links,
+    .message,
+    .btns {
+        margin: 1%;
+    }
+    .links {
+        width: 20%;
+    }
+    .message {
+        width: 45%;
+        line-height: 1.7;
+    }
+    .btns {
+        width: 30%;
+        margin-right: 0%;
+    }
+    #intro-section {
+        width: 80%;
+        margin: 0px auto;
+    }
+    .stats {
+        height: 300px;
+    }
+    .stats-content {
+        width: 85%;
+        margin: 0px auto;
+        padding-top: 50px;
+    }
+    .counts {
+        width: 22%;
+        margin-right: 4%;
+    }
+    #education {
+        margin-right: 0%;
+    }
+    #aim {
+        width: 75%;
+    }
+    .services {
+        width: 29.3%;
+        margin: 2%;
+    }
+    .projects {
+        width: 75%;
+    }
+    .mission {
+        width: 62.6%;
+    }
+    .events {
+        width: 29.3%;
+    }
+    .project-list {
+        width: 47%;
+    }
+    #literacy,
+    #hepatitis {
+        margin-right: 3%;
+    }
+    #tharparkar,
+    #housing {
+        margin-left: 3%;
+    }
+    .gallery {
+        width: 100%;
+    }
+    .image-list {
+        width: 33.3%;
+    }
+    .contact-content {
+        width: 75%;
+    }
+    #address,
+    #usefull-links,
+    #social-links {
+        width: 33%;
+        /* margin-bottom: 20px; */
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    #intro-section {
+        width: 60%;
+        margin: 0px auto;
+    }
+    .gallery {
+        width: 75%;
+    }
+    .image-list {
+        width: 20%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {}
